@@ -6,7 +6,7 @@
  
 I'm a Biomedical Informatics Student at UFPR. I currently work mostly with Python and C Programming Language. Here there are some of my coolest works that I've done during my college. I hope that you can find something that you also thinks it's cool or helpful to you :)
  
-## About me 
+## Contact 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Eloiza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](www.linkedin.com/in/eloiza-rossetto
 )
