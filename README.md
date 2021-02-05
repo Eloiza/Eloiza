@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="500*0.5" height="281*0.5" src="https://64.media.tumblr.com/tumblr_me6dx35tOZ1qfy2kdo2_500.gifv">
+<img align="right" width="400" height="224" src="https://64.media.tumblr.com/tumblr_me6dx35tOZ1qfy2kdo2_500.gifv">
  
 ## I'm Eloiza Rossetto
  
