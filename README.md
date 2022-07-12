@@ -9,10 +9,11 @@ I'm graduated to Biomedical Informatics at UFPR. I currently work mostly with Py
 Thanks for visiting o/
 
 ## Contact 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Eloiza)](https://github.com/Eloiza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/eloiza-rossetto
-)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:eloiza.rossetto@gmail.com)
+
+
+<a href="https://github.com/Eloiza"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="www.linkedin.com/in/eloiza-rossetto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:eloiza.rossetto@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
 
 <!--
